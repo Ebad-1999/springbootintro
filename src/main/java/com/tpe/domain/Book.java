@@ -32,7 +32,7 @@ public class Book {
     }
     public String getName() {
         return name;
-    }
+    };
     public Student getStudent() {
         return student;
     }
